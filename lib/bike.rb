@@ -3,7 +3,3 @@ class Bike
     true
   end 
 end 
-
-"hello"
-"hi again"
-"hi hi hi"
