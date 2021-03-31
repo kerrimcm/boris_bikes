@@ -1,15 +1,11 @@
-require './lib/docking_station'
-require './lib/bike'
+require 'docking_station'
 
-describe DockingStation do 
+describe DockingStation do
   it { is_expected.to respond_to :release_bike }
 
-  # Your test should check that you can call working? on the result of DockingStation.release_bike, 
-  #and that the result of doing so is true.
-  
-  it 'returns true when we call release bike on docking station' do
-    docking_station = DockingStation.new
-    result = docking_station.release_bike
-    expect(result.working?).to be true
-  end 
+  it 'releases working bike' do
+    # RSpec's subject is a special variable that refers to the object being tested
+    bike = subject.release_bike
+    expect(bike).to be_working
+  end
 end
