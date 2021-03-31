@@ -5,3 +5,4 @@ class Bike
 end 
 
 "hello"
+"hi again"
