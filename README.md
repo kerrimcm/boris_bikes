@@ -13,3 +13,5 @@ Transport for London have come to us in order to create a network of docking sta
 ## Day 1 Progress
 
 By the end of day one, my pair partner and I had written up User Stories to begin building out the basic functionality of the docking stations and the bike - see the document here: https://docs.google.com/document/d/1bTRJ9mylCGj5JJM_WS78D48dW9wGqcn-M96GF6QNrtU/edit?usp=sharing
+
+We then began testing code using smaller feature tests on `irb` to see if it was working as expected. 
