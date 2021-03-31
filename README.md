@@ -1,18 +1,15 @@
 # Boris Bikes
 
-Transport for London have come to us in order to create a network of docking stations and bikes that anyone can use. This program emulates all the docking stations, bikes, and infrastructure, including repair staff.
+Transport for London have come to us in order to create a network of docking stations and bikes that anyone can use. This program emulates the behaviour of docking stations, bikes and infrastructure.
 
 ## Getting started
 
-`git clone path-to-your-repo`
-`command_to_install_dependencies` (e.g. `bundle`)
-
-## Usage
-
-`command_to_start` (e.g. `rackup` or `rails s`)
-Navigate to `http://localhost:4567/`
-
+`git clone https://github.com/kerrimcm/boris_bikes.git`
 
 ## Running tests
 
-`test_command` (e.g. `rspec`)
+`rspec` 
+
+## Day 1 Progress
+
+By the end of day one, my pair partner and I had written up User Stories to begin building out the basic functionality of the docking stations and the bike - see the document here: https://docs.google.com/document/d/1bTRJ9mylCGj5JJM_WS78D48dW9wGqcn-M96GF6QNrtU/edit?usp=sharing
