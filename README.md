@@ -1,10 +1,11 @@
 # Boris Bikes
 
-Transport for London have come to us in order to create a network of docking stations and bikes that anyone can use. This program emulates the behaviour of docking stations, bikes and infrastructure.
+Transport for London have come to us in order to create a network of docking stations and bikes that anyone can use. This program mimics the behaviour of the infrastructure of docking stations and bikes. 
 
 ## Getting started
 
 `git clone https://github.com/kerrimcm/boris_bikes.git`
+<br>
 `rspec --init`
 
 ## Running tests
