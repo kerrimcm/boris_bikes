@@ -6,7 +6,7 @@ Transport for London have come to us in order to create a network of docking sta
 
 `git clone https://github.com/kerrimcm/boris_bikes.git`
 <br>
-`cd` into the repository
+`cd` into the file
 
 ## Running tests
 
